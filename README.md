@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="JulioMarquinez.png" alt="Banner Julio Marquiñez" width="100%" style="border-radius: 10px;"/>
+  <img src="Julio Marquinez.png" alt="Banner Julio Marquiñez" width="100%" style="border-radius: 10px;"/>
 </div>
 
 <br/>
