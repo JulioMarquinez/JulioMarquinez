@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Julio Marquiñez</h1>
-  <img src="image_1.jpg" alt="Banner Laptop Dark" width="100%" style="border-radius: 15px;"/>
+  <img src="JulioMarquinez.png" alt="Banner Julio Marquiñez" width="100%" style="border-radius: 10px;"/>
 </div>
 
 <br/>
